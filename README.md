@@ -1,7 +1,7 @@
 # BuddyCon
 A service that allows you to add your own gifticons and manage them in one place or customize them and share them with your friends.
 
-<img src=https://github.com/user-attachments/assets/8673f031-c120-4764-8125-27421af8cf95 height=400/>
+![2D](https://github.com/user-attachments/assets/05e6d27f-6920-49c5-aa5a-6b8e5a239f32)
 
 <br>
 
