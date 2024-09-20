@@ -9,6 +9,8 @@ A service that allows you to add your own gifticons and manage them in one place
 Go to the [Release](https://play.google.com/store/apps/details?id=com.yapp.buddycon&hl=ko) to download the latest APK. <br>
 But, the service was terminated due to lack of server maintenance.
 
+<br>
+
 ## Tech Blog
 - [Clean Architecture](https://velog.io/@ows3090/Android-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-Clean-Architecture)
 - [Modularization](https://velog.io/@ows3090/Android-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-App-Modularization)
