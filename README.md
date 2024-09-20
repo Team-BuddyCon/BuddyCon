@@ -9,6 +9,15 @@ A service that allows you to add your own gifticons and manage them in one place
 Go to the [Release](https://play.google.com/store/apps/details?id=com.yapp.buddycon&hl=ko) to download the latest APK. <br>
 But, the service was terminated due to lack of server maintenance.
 
+## Tech Blog
+- [Clean Architecture](https://velog.io/@ows3090/Android-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-Clean-Architecture)
+- [Modularization](https://velog.io/@ows3090/Android-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-App-Modularization)
+- [Kotlin DSL + buildSrc](https://velog.io/@ows3090/Android-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-Kotlin-DSL-buildSrc)
+- [OkHttp Interceptor](https://velog.io/@ows3090/Android-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-OkHttp-Interceptor-%ED%99%9C%EC%9A%A9)
+- [Hilt Qualifier, Annotation](https://velog.io/@ows3090/Android-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-Annotation-Hilt-Qualifier-%EC%82%AC%EC%9A%A9)
+- [DataStore](https://velog.io/@ows3090/Android-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-DataStore-Preferences-DataStore-Proto-DataStore)
+- [Paging, RemoteMediator](https://velog.io/@ows3090/Android-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-Paging-Library-RemoteMediator-%EC%82%AC%EC%9A%A9)
+
 <br>
 
 ## Tech stack & Open-source libraries
